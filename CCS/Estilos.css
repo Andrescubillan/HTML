@@ -1,0 +1,17 @@
+p {
+    color:rgb(255, 255, 255);
+    background-color: black;
+    
+ }
+ h1{
+    color: crimson;
+ }
+ /*Estilizado de ID*/
+ #introduccion {
+    color: purple;
+ }
+ /*Estilizado de clases*/
+ .Titulares {
+    color: rgb(46, 14, 76);
+    background-color: rgb(141, 141, 41);
+ }
